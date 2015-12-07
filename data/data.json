@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      
+      "image": "img/Gin.jpg"
+    },
+    {
+      "title": "Step Two",
+      "description": "Make 7 Up Yours",
+      "image": "img/sprite.jpg"
+    },
+    {
+      "title": "Step Three",
+      "description": "Vitamins",
+      "image": "img/citrus.jpg"
+    },
+    {
+      "title": "Step Four",
+      "description": "Chill",
+      "image": "img/ice.jpg"
+    },
+    {
+      "title": "Step Five",
+      "description": "Pace yourself",
+      "image": "img/drink.jpg"
+    }
+  ]
+}

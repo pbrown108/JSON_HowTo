@@ -1,0 +1,69 @@
+body {
+	max-width: 1024px;
+	font-family: Helvetica, Arial, sans-serif;
+    background-color: silver;
+}
+
+
+header {
+ 
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+
+button {
+	width: 70px;
+	height: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+#content {
+	width: 1000px;
+}
+
+#btn {
+    
+ width: 60px;
+height: 50px;
+
+    
+}
+
+
+
+#next {
+    
+ 
+    float: right;
+    margin-right: 25px;
+    
+}
+
+
+#prev {
+    
+ float: right;  
+    
+}
+
+#sources {
+ 
+    font-size: 9px;
+    margin-top: 10px;
+}
+
+#sources ul {
+    
+ list-style: none;
+ margin-left: -25px;
+
+    
+}
+
+.slide {
+	width: 1080px;
+	height: 700px;
+	overflow: hidden;
+}
